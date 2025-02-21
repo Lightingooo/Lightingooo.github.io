@@ -3,6 +3,9 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
+  - title: "In the Future"
+    url: "/#in-the-future"
+
   - title: "News"
     url: "/#-news"
 

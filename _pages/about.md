@@ -24,7 +24,13 @@ My research focuses on Visual Simultaneous Localization and Mapping (VSLAM) and 
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
+# 😄 In the Future
+- 🤝👥💪 Looking forward to collaborations in VSLAM and 3DGS.
+- 🏔️🌨️❄️ Hoping for opportunities to collaborate on mountaineering expeditions, specifically to Muztagh Tower.
+
+
 # 🔥 News
+- *2024.12*: 🎉 🏔️After relentless efforts, our four-person team successfully trekked over 30 km in two days and one night through an environment with temperatures below –30°C and snow reaching our thighs, ultimately summiting the Gangshka Main Peak in Qinghai Province at an elevation of 5254.5 m. We are incredibly proud of all our team members!
 - *2024.03*: 🎉 [VPL-SLAM](https://ieeexplore.ieee.org/document/10461980) is accepted by **IEEE Transactions on Intelligent Transportation Systems**. Congrats to Qi.
 - *2024.01*: 🎉 [Multi-Lio](https://ieeexplore.ieee.org/document/10611257) is accepted by **ICRA 2024**. Congrats to Qi.
 <!-- Honored to collaborate with them on these promising projects. -->
