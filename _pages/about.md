@@ -30,13 +30,14 @@ My research focuses on Visual Simultaneous Localization and Mapping (VSLAM) and 
 
 
 # 🔥 News
+- *2025.03*: 🎉 [JointDeblur-GS](https://lightingooo.github.io/) is accepted by **ICME 2025**. Congrats to Sijia.
 - *2024.12*: 🎉 🏔️After relentless efforts, our four-person team successfully trekked over 30 km in two days and one night through an environment with temperatures below –30°C and snow reaching our thighs, ultimately summiting the Gangshka Main Peak in Qinghai Province at an elevation of 5254.5 m. We are incredibly proud of all our team members!
 - *2024.03*: 🎉 [VPL-SLAM](https://ieeexplore.ieee.org/document/10461980) is accepted by **IEEE Transactions on Intelligent Transportation Systems**. Congrats to Qi.
 - *2024.01*: 🎉 [Multi-Lio](https://ieeexplore.ieee.org/document/10611257) is accepted by **ICRA 2024**. Congrats to Qi.
 <!-- Honored to collaborate with them on these promising projects. -->
 
-# 📝 Publications 
 
+# 📝 Recent Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv preprint</div><img src='images/2024_09_PAPL_SLAM/PAPL_SLAM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -93,8 +94,23 @@ Qi Chen, Yu Cao, Jiawei Hou, **Guanghao Li**, Bo Chen, Xiangyang Xue, Hong Lu, J
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2025</div><img src='images/2025_03_JointDeblur/jointDeblur.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+[JointDeblur-GS: Joint Blur-Aware Gaussian Splatting](https://lightingooo.github.io/)
+
+Sijia Hu, Peng Chen, Xinxiao Wang, Luyue Sun, **Guanghao Li**, Hongyu Wang, Jian Pu
+
+[**Project**](https://lightingooo.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- JointDeblur-GS is a joint optimization framework that integrates a blur-aware network to enhance image quality and optimize 3D Gaussian parameters for effective motion blur removal and multiview consistency, achieving superior reconstruction quality with real-time performance.
+</div>
+</div>
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
+
+
+# 📖 Educations
+- *2022.08 - 2027.06 (now)*, Ph.D., Fudan University, Shanghai, China.
+- *2018.09 - 2022.06*, Bachelor of Automation, Xiamen Univeristy, Xiamen, China.
 
 # 🎖 Honors and Awards
 - 2022.09 Fudan University Zhicheng Freshman Second Prize Scholarship (Top 5%)
@@ -105,13 +121,16 @@ Qi Chen, Yu Cao, Jiawei Hou, **Guanghao Li**, Bo Chen, Xiangyang Xue, Hong Lu, J
 - Conference Reviewer: ICME2025
 - Teaching assistant: Embodied Intelligence
 
-# 📖 Educations
-- *2022.08 - 2027.06 (now)*, Ph.D., Fudan University, Shanghai, China.
-- *2018.09 - 2022.06*, Bachelor of Automation, Xiamen Univeristy, Xiamen, China.
 
-# 💬 Invited Talks
+
+
+
+
+
+
+<!-- # 💬 Invited Talks -->
 <!-- - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 💻 Internships
+<!-- # 💻 Internships -->
 <!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
