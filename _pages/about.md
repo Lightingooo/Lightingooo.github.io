@@ -117,7 +117,7 @@ Sijia Hu, Peng Chen, Xinxiao Wang, Luyue Sun, **Guanghao Li**, Hongyu Wang, Jian
 - 2022.05 Outstanding Graduates of Fujian Province and Xiamen University
 
 # 👨‍💼 Academic Service
-- Journal Reviewer: RA-L
+- Journal Reviewer: RA-L, IROS
 - Conference Reviewer: ICME2025
 - Teaching assistant: Embodied Intelligence
 
