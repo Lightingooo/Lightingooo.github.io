@@ -58,7 +58,7 @@ My research focuses on Visual Simultaneous Localization and Mapping (VSLAM) and 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recognition</div><img src='images/2023_12_EC_SLAM/EC_SLAM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[EC-SLAM: Real-time Dense Neural RGB-D SLAM System with Effectively Constrained Global Bundle Adjustment](https://ui.adsabs.harvard.edu/abs/2024arXiv240413346L/abstract)
+[EC-SLAM: Real-time Dense Neural RGB-D SLAM System with Effectively Constrained Global Bundle Adjustment ](https://ui.adsabs.harvard.edu/abs/2024arXiv240413346L/abstract) (**IRS Best Researcher Award**)
 
  **Guanghao Li\***, Qi Chen\*, Yuxiang Yan, Jian Pu
 
