@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student at the Institute of Science and Technology for Brain-inspired Intelligence (ISTBI) at Fudan University. I obtained my Bachelor's degree from the School of Aerospace Engineering at Xiamen University. 
+I am a PhD student at the Institute of Science and Technology for Brain-inspired Intelligence (ISTBI) at Fudan University, Shanghai, China. I obtained my Bachelor's degree from the School of Aerospace Engineering at Xiamen University, Xiamen, China. 
 
-My research focuses on Visual Simultaneous Localization and Mapping (VSLAM) and volumetric rendering techniques, particularly Neural Radiance Fields (NeRF) and 3D Gaussian Splatting (3DGS) <a href='https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=6nkKQDIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. In the future, I aim to develop an efficient and robust SLAM system based on volumetric rendering. Feel free to reach out if you'd like to **learn more about my work**, **chat**, or explore potential **collaborations**.
+My research focuses on Robotics and Simultaneous Localization and Mapping (SLAM) <a href='https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=6nkKQDIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. In the future, I aim to develop an efficient and robust SLAM system. Feel free to reach out if you'd like to **learn more about my work**, **chat**, or explore potential **collaborations**.
 
 
 
@@ -29,9 +29,10 @@ My research focuses on Visual Simultaneous Localization and Mapping (VSLAM) and 
 
 
 # 🔥 News
+- *2025.07*: 🎉 **PAPL-SLAM** is accepted by **IEEE Robotics and Automation Letters**.
 - *2025.06*: 🎉 **Dark-ISP** is accepted by **ICCV 2025**.
-- *2025.06*: 🎉 **FusionMap** is accepted by **IEEE Transactions on Artificial Intelligence**.
-- *2025.06*: 🎉 [EC-SLAM](https://ui.adsabs.harvard.edu/abs/2024arXiv240413346L/abstract) is accepted by **Pattern Recognition**.
+- *2025.06*: 🎉 [FusionMap](https://ieeexplore.ieee.org/abstract/document/11060934) is accepted by **IEEE Transactions on Artificial Intelligence**.
+- *2025.06*: 🎉 [EC-SLAM](https://www.sciencedirect.com/science/article/abs/pii/S0031320325006946) is accepted by **Pattern Recognition**.
 - *2025.03*: 🎉 **JointDeblur-GS** is accepted by **ICME 2025**.
 - *2024.12*: 🎉 🏔️After relentless efforts, our four-person team successfully trekked over 30 km in two days and one night through an environment with temperatures below –30°C and snow reaching our thighs, ultimately summiting the Gangshka Main Peak in Qinghai Province at an elevation of 5254.5 m. We are incredibly proud of all our team members!
 - *2024.03*: 🎉 [VPL-SLAM](https://ieeexplore.ieee.org/document/10461980) is accepted by **IEEE Transactions on Intelligent Transportation Systems**.
@@ -44,11 +45,11 @@ My research focuses on Visual Simultaneous Localization and Mapping (VSLAM) and 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-AI</div><img src='images/2024_05_FusionMap/FusionMap.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Constrained Gaussian Splatting via Implicit TSDF Hash Grid for Dense RGB-D SLAM](https://lightingooo.github.io/)
+[Constrained Gaussian Splatting via Implicit TSDF Hash Grid for Dense RGB-D SLAM](https://ieeexplore.ieee.org/abstract/document/11060934)
 
 **Guanghao Li**, Qi Chen, Sijia Hu, Yuxiang Yan, Jian Pu
 
-[**Project**](https://lightingooo.github.io/)
+[**Project**](https://ieeexplore.ieee.org/abstract/document/11060934)
 - FusionMap is an advanced SLAM system that combines explicit 3DGS and implicit NeRF representations to improve surface reconstruction accuracy. By addressing the limitations of traditional 3DGS, FusionMap achieves up to 30 times faster processing and a 38% accuracy boost over conventional methods. This innovation sets new standards for real-time 3D mapping and localization, enabling next-generation applications in virtual environments, autonomous navigation, and dynamic scene reconstruction.
 </div>
 </div>
@@ -58,7 +59,7 @@ My research focuses on Visual Simultaneous Localization and Mapping (VSLAM) and 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recognition</div><img src='images/2023_12_EC_SLAM/EC_SLAM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[EC-SLAM: Real-time Dense Neural RGB-D SLAM System with Effectively Constrained Global Bundle Adjustment ](https://ui.adsabs.harvard.edu/abs/2024arXiv240413346L/abstract) (**IRS Best Researcher Award**)
+[EC-SLAM: Real-time Dense Neural RGB-D SLAM System with Effectively Constrained Global Bundle Adjustment ](https://www.sciencedirect.com/science/article/abs/pii/S0031320325006946) (**IRS Best Researcher Award**)
 
  **Guanghao Li\***, Qi Chen\*, Yuxiang Yan, Jian Pu
 
@@ -73,14 +74,14 @@ My research focuses on Visual Simultaneous Localization and Mapping (VSLAM) and 
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv preprint</div><img src='images/2024_09_PAPL_SLAM/PAPL_SLAM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE RA-L</div><img src='images/2024_09_PAPL_SLAM/PAPL_SLAM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [PAPL-SLAM: Principal Axis-Anchored Monocular Point-Line SLAM](https://arxiv.org/pdf/2410.12324)
 
  **Guanghao Li**, Yu Cao, Qi Chen, Xin Gao, Yifan Yang, Jian Pu
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=6nkKQDIAAAAJ&citation_for_view=6nkKQDIAAAAJ:9yKSN-GCB0IC) <strong><span class='show_paper_citations' data='6nkKQDIAAAAJ:9yKSN-GCB0IC'></span></strong>
+[**Project**](https://arxiv.org/pdf/2410.12324) <strong><span class='show_paper_citations' data='6nkKQDIAAAAJ:9yKSN-GCB0IC'></span></strong>
 
 - PAPL-SLAM is a point-line SLAM system that efficiently integrates line structural information and optimization by anchoring lines to a principal axis, reducing the number of parameters, and utilizing probabilistic data association, enabling robust, rapid, and accurate mapping and tracking in both indoor and outdoor environments.
 </div>
@@ -172,5 +173,5 @@ Sijia Hu, Peng Chen, Xinxiao Wang, Luyue Sun, **Guanghao Li**, Hongyu Wang, Jian
 <!-- - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 💻 Internships -->
+# 💻 Internships
 - *2025.04 - now*, Shanghai Artificial Intelligence Laboratory, China.
