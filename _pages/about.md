@@ -19,7 +19,7 @@ redirect_from:
 
 I am a PhD student at the Institute of Science and Technology for Brain-inspired Intelligence (ISTBI) at Fudan University, Shanghai, China. I obtained my Bachelor's degree from the School of Aerospace Engineering at Xiamen University, Xiamen, China. 
 
-My research focuses on Robotics and Simultaneous Localization and Mapping (SLAM) <a href='https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=6nkKQDIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. In the future, I aim to develop an efficient and robust SLAM system. Feel free to reach out if you'd like to **learn more about my work**, **chat**, or explore potential **collaborations**.
+My research focuses on Robotics and Simultaneous Localization and Mapping (SLAM). In the future, I aim to develop an efficient and robust SLAM system. Feel free to reach out if you'd like to **learn more about my work**, **chat**, or explore potential **collaborations**.
 
 
 
