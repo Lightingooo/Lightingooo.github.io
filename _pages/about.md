@@ -40,7 +40,47 @@ My research focuses on Robotics and Simultaneous Localization and Mapping (SLAM)
 <!-- Honored to collaborate with them on these promising projects. -->
 
 
-# 📝 Recent Publications 
+# 📝 Selected Studies on SLAM 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE RA-L</div><img src='images/2024_09_PAPL_SLAM/PAPL_SLAM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[PAPL-SLAM: Principal Axis-Anchored Monocular Point-Line SLAM](https://arxiv.org/pdf/2410.12324)
+
+ **Guanghao Li\***, Yu Cao\*, Qi Chen\*, Xin Gao, Yifan Yang, Jian Pu
+
+[**Project**](https://arxiv.org/pdf/2410.12324) <strong><span class='show_paper_citations' data='6nkKQDIAAAAJ:9yKSN-GCB0IC'></span></strong>
+
+- PAPL-SLAM is a point-line SLAM system that efficiently integrates line structural information and optimization by anchoring lines to a principal axis, reducing the number of parameters, and utilizing probabilistic data association, enabling robust, rapid, and accurate mapping and tracking in both indoor and outdoor environments.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2024</div><img src='images/2024_01_Multi_lio/Multi_lio.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Multi-LIO: A Lightweight Multiple LiDAR-Inertial Odometry System](https://ieeexplore.ieee.org/abstract/document/10611257)
+
+Qi Chen\*, **Guanghao Li\***, Xiangyang Xue, Jian Pu
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=6nkKQDIAAAAJ&citation_for_view=6nkKQDIAAAAJ:d1gkVwhDpl0C) <strong><span class='show_paper_citations' data='6nkKQDIAAAAJ:d1gkVwhDpl0C'></span></strong>
+- Multi-LIO is a real-time, computationally efficient multiple LiDAR-inertial odometry system that enhances accuracy and scalability, using parallel state updates, voxelized maps, and point-wise uncertainty estimation to improve scan-to-map registration in large-scale, complex environments.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-ITS</div><img src='images/2024_03_VPL-SLAM/under00_frame.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[VPL-SLAM: A Vertical Line Supported Point Line Monocular SLAM System](https://ieeexplore.ieee.org/document/10461980)
+
+Qi Chen, Yu Cao, Jiawei Hou, **Guanghao Li**, Bo Chen, Xiangyang Xue, Hong Lu, Jian Pu
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=6nkKQDIAAAAJ&citation_for_view=6nkKQDIAAAAJ:u5HHmVD_uO8C) <strong><span class='show_paper_citations' data='6nkKQDIAAAAJ:u5HHmVD_uO8C'></span></strong>
+- VPL-SLAM is a monocular SLAM system that improves localization and mapping in complex environments by integrating structural vertical lines with point-line features.
+</div>
+</div>
+
+# 📝 Selected Studies on 3D Reconstruction 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-AI</div><img src='images/2024_05_FusionMap/FusionMap.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -53,21 +93,6 @@ My research focuses on Robotics and Simultaneous Localization and Mapping (SLAM)
 - FusionMap is an advanced SLAM system that combines explicit 3DGS and implicit NeRF representations to improve surface reconstruction accuracy. By addressing the limitations of traditional 3DGS, FusionMap achieves up to 30 times faster processing and a 38% accuracy boost over conventional methods. This innovation sets new standards for real-time 3D mapping and localization, enabling next-generation applications in virtual environments, autonomous navigation, and dynamic scene reconstruction.
 </div>
 </div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE RA-L</div><img src='images/2024_09_PAPL_SLAM/PAPL_SLAM.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[PAPL-SLAM: Principal Axis-Anchored Monocular Point-Line SLAM](https://arxiv.org/pdf/2410.12324)
-
- **Guanghao Li**, Yu Cao, Qi Chen, Xin Gao, Yifan Yang, Jian Pu
-
-[**Project**](https://arxiv.org/pdf/2410.12324) <strong><span class='show_paper_citations' data='6nkKQDIAAAAJ:9yKSN-GCB0IC'></span></strong>
-
-- PAPL-SLAM is a point-line SLAM system that efficiently integrates line structural information and optimization by anchoring lines to a principal axis, reducing the number of parameters, and utilizing probabilistic data association, enabling robust, rapid, and accurate mapping and tracking in both indoor and outdoor environments.
-</div>
-</div>
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recognition</div><img src='images/2023_12_EC_SLAM/EC_SLAM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -85,31 +110,19 @@ My research focuses on Robotics and Simultaneous Localization and Mapping (SLAM)
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2024</div><img src='images/2024_01_Multi_lio/Multi_lio.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2025</div><img src='images/2025_03_JointDeblur/jointDeblur.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Multi-LIO: A Lightweight Multiple LiDAR-Inertial Odometry System](https://ieeexplore.ieee.org/abstract/document/10611257)
+[JointDeblur-GS: Joint Blur-Aware Gaussian Splatting](https://lightingooo.github.io/)
 
-Qi Chen\*, **Guanghao Li\***, Xiangyang Xue, Jian Pu
+Sijia Hu, Peng Chen, Xinxiao Wang, Luyue Sun, **Guanghao Li**, Hongyu Wang, Jian Pu
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=6nkKQDIAAAAJ&citation_for_view=6nkKQDIAAAAJ:d1gkVwhDpl0C) <strong><span class='show_paper_citations' data='6nkKQDIAAAAJ:d1gkVwhDpl0C'></span></strong>
-- Multi-LIO is a real-time, computationally efficient multiple LiDAR-inertial odometry system that enhances accuracy and scalability, using parallel state updates, voxelized maps, and point-wise uncertainty estimation to improve scan-to-map registration in large-scale, complex environments.
+[**Project**](https://lightingooo.github.io/)
+- JointDeblur-GS is a joint optimization framework that integrates a blur-aware network to enhance image quality and optimize 3D Gaussian parameters for effective motion blur removal and multiview consistency, achieving superior reconstruction quality with real-time performance.
 </div>
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-ITS</div><img src='images/2024_03_VPL-SLAM/under00_frame.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[VPL-SLAM: A Vertical Line Supported Point Line Monocular SLAM System](https://ieeexplore.ieee.org/document/10461980)
-
-Qi Chen, Yu Cao, Jiawei Hou, **Guanghao Li**, Bo Chen, Xiangyang Xue, Hong Lu, Jian Pu
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=6nkKQDIAAAAJ&citation_for_view=6nkKQDIAAAAJ:u5HHmVD_uO8C) <strong><span class='show_paper_citations' data='6nkKQDIAAAAJ:u5HHmVD_uO8C'></span></strong>
-- VPL-SLAM is a monocular SLAM system that improves localization and mapping in complex environments by integrating structural vertical lines with point-line features.
-</div>
-</div>
-
+# 📝 Other Selected Studies
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/2025_06_Dark-ISP/Dark-ISP.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -123,47 +136,29 @@ Guo jiasheng, Xin Gao, Yuxiang Yan, **Guanghao Li**, Jian Pu
 </div>
 </div>
 
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2025</div><img src='images/2025_03_JointDeblur/jointDeblur.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[JointDeblur-GS: Joint Blur-Aware Gaussian Splatting](https://lightingooo.github.io/)
-
-Sijia Hu, Peng Chen, Xinxiao Wang, Luyue Sun, **Guanghao Li**, Hongyu Wang, Jian Pu
-
-[**Project**](https://lightingooo.github.io/)
-- JointDeblur-GS is a joint optimization framework that integrates a blur-aware network to enhance image quality and optimize 3D Gaussian parameters for effective motion blur removal and multiview consistency, achieving superior reconstruction quality with real-time performance.
-</div>
-</div>
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 
-# 📖 Educations
+<!-- # 📖 Educations
 - *2025.09 - now*, Ph.D., Shanghai Innovation Institute, China.
 - *2022.08 - now*, Ph.D., Fudan University, Shanghai, China.
-- *2018.09 - 2022.06*, Bachelor of Automation, Xiamen Univeristy, Xiamen, China.
+- *2018.09 - 2022.06*, Bachelor of Automation, Xiamen Univeristy, Xiamen, China. -->
 
-# 🎖 Honors and Awards
+
+<!-- # 🎖 Honors and Awards
 - 2022.09 Fudan University Zhicheng Freshman Second Prize Scholarship (Top 5%)
-- 2022.05 Outstanding Graduates of Fujian Province and Xiamen University
+- 2022.05 Outstanding Graduates of Fujian Province and Xiamen University -->
 
-# 👨‍💼 Academic Service
+
+<!-- # 👨‍💼 Academic Service
 - Journal Reviewer: RA-L, IROS
 - Conference Reviewer: ICME2025
-- Teaching assistant: Embodied Intelligence
-
-
-
-
-
-
+- Teaching assistant: Embodied Intelligence -->
 
 
 <!-- # 💬 Invited Talks -->
 <!-- - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 💻 Internships
-- *2025.04 - now*, Shanghai Artificial Intelligence Laboratory, China.
+<!-- # 💻 Internships
+- *2025.04 - now*, Shanghai Artificial Intelligence Laboratory, China. -->

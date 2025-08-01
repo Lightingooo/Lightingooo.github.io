@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Guanghao Li (李光浩)"
-description              : "Ph.D. candidate of Fudan University"
+description              : "Ph.D. Candidate"
 repository               : "Lightingooo/Lightingooo.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ author:
   name             : "Guanghao Li"
   avatar           : "images/android-chrome-512x512.png"
   bio              : # "Fudan University"
-  location         : "Shanghai, China"
+  location         : # "Shanghai, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=6nkKQDIAAAAJ"
