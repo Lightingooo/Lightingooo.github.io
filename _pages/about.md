@@ -29,8 +29,8 @@ My research focuses on Robotics and Simultaneous Localization and Mapping (SLAM)
 
 
 # 🔥 News
-- *2025.07*: 🎉 **PAPL-SLAM** is accepted by **IEEE Robotics and Automation Letters**.
-- *2025.06*: 🎉 **Dark-ISP** is accepted by **ICCV 2025**.
+- *2025.07*: 🎉 [PAPL-SLAM](https://ieeexplore.ieee.org/abstract/document/11091490) is accepted by **IEEE Robotics and Automation Letters**.
+- *2025.06*: 🎉 [Dark-ISP](https://iccv.thecvf.com/virtual/2025/poster/2393) is accepted by **ICCV 2025**.
 - *2025.06*: 🎉 [FusionMap](https://ieeexplore.ieee.org/abstract/document/11060934) is accepted by **IEEE Transactions on Artificial Intelligence**.
 - *2025.06*: 🎉 [EC-SLAM](https://www.sciencedirect.com/science/article/abs/pii/S0031320325006946) is accepted by **Pattern Recognition**.
 - *2025.03*: 🎉 **JointDeblur-GS** is accepted by **ICME 2025**.
@@ -55,25 +55,6 @@ My research focuses on Robotics and Simultaneous Localization and Mapping (SLAM)
 </div>
 
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recognition</div><img src='images/2023_12_EC_SLAM/EC_SLAM.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[EC-SLAM: Real-time Dense Neural RGB-D SLAM System with Effectively Constrained Global Bundle Adjustment ](https://www.sciencedirect.com/science/article/abs/pii/S0031320325006946) (**IRS Best Researcher Award**)
-
- **Guanghao Li\***, Qi Chen\*, Yuxiang Yan, Jian Pu
-
-[**Project**](https://github.com/Lightingooo/EC-SLAM) <strong><span class='show_paper_citations' data='6nkKQDIAAAAJ:u-x6o8ySG0sC'></span></strong>
-[![GitHub Stars](https://img.shields.io/github/stars/Lightingooo/EC-SLAM?style=social)](https://github.com/Lightingooo/EC-SLAM)
-[![GitHub Forks](https://img.shields.io/github/forks/Lightingooo/EC-SLAM?style=social)](https://github.com/Lightingooo/EC-SLAM)
-
-- EC-SLAM is a real-time dense RGB-D SLAM system that leverages Neural Radiance Fields (NeRF) for enhanced pose optimization, using sparse parametric encodings, TSDF, and a globally constrained Bundle Adjustment strategy to improve tracking accuracy and reconstruction performance in real-time.
-</div>
-</div>
-
-
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE RA-L</div><img src='images/2024_09_PAPL_SLAM/PAPL_SLAM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -87,6 +68,21 @@ My research focuses on Robotics and Simultaneous Localization and Mapping (SLAM)
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recognition</div><img src='images/2023_12_EC_SLAM/EC_SLAM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[EC-SLAM: Real-time Dense Neural RGB-D SLAM System with Effectively Constrained Global Bundle Adjustment ](https://www.sciencedirect.com/science/article/abs/pii/S0031320325006946)
+
+ **Guanghao Li\***, Qi Chen\*, Yuxiang Yan, Jian Pu
+
+[**Project**](https://github.com/Lightingooo/EC-SLAM) <strong><span class='show_paper_citations' data='6nkKQDIAAAAJ:u-x6o8ySG0sC'></span></strong>
+[![GitHub Stars](https://img.shields.io/github/stars/Lightingooo/EC-SLAM?style=social)](https://github.com/Lightingooo/EC-SLAM)
+[![GitHub Forks](https://img.shields.io/github/forks/Lightingooo/EC-SLAM?style=social)](https://github.com/Lightingooo/EC-SLAM)
+
+- EC-SLAM is a real-time dense RGB-D SLAM system that leverages Neural Radiance Fields (NeRF) for enhanced pose optimization, using sparse parametric encodings, TSDF, and a globally constrained Bundle Adjustment strategy to improve tracking accuracy and reconstruction performance in real-time.
+</div>
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2024</div><img src='images/2024_01_Multi_lio/Multi_lio.png' alt="sym" width="100%"></div></div>
@@ -102,8 +98,6 @@ Qi Chen\*, **Guanghao Li\***, Xiangyang Xue, Jian Pu
 </div>
 
 
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-ITS</div><img src='images/2024_03_VPL-SLAM/under00_frame.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -117,12 +111,10 @@ Qi Chen, Yu Cao, Jiawei Hou, **Guanghao Li**, Bo Chen, Xiangyang Xue, Hong Lu, J
 </div>
 
 
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/2025_06_Dark-ISP/Dark-ISP.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Dark-ISP: Enhancing RAW Image Processing for Low-Light Object Detection](https://lightingooo.github.io/)
+[Dark-ISP: Enhancing RAW Image Processing for Low-Light Object Detection](https://iccv.thecvf.com/virtual/2025/poster/2393)
 
 Guo jiasheng, Xin Gao, Yuxiang Yan, **Guanghao Li**, Jian Pu 
 
