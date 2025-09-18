@@ -29,6 +29,7 @@ My research focuses on Robotics and Simultaneous Localization and Mapping (SLAM)
 
 
 # 🔥 News
+- *2025.09*: 🎉 Two papers was accepted by **NIPS 2026**.
 - *2025.07*: 🎉 [PAPL-SLAM](https://ieeexplore.ieee.org/abstract/document/11091490) is accepted by **IEEE Robotics and Automation Letters**.
 - *2025.06*: 🎉 [Dark-ISP](https://iccv.thecvf.com/virtual/2025/poster/2393) is accepted by **ICCV 2025**.
 - *2025.06*: 🎉 [FusionMap](https://ieeexplore.ieee.org/abstract/document/11060934) is accepted by **IEEE Transactions on Artificial Intelligence**.
