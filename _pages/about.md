@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student at the Institute of Science and Technology for Brain-inspired Intelligence (ISTBI) at Fudan University, Shanghai, China. I obtained my Bachelor's degree from the School of Aerospace Engineering at Xiamen University, Xiamen, China. 
+Hi. 
 
-My research focuses on Robotics and Simultaneous Localization and Mapping (SLAM). In the future, I aim to develop an efficient and robust SLAM system. Feel free to reach out if you'd like to **learn more about my work**, **chat**, or explore potential **collaborations**.
+I am a PhD student at Fudan University, Shanghai, China. My research focuses on Robotics and Simultaneous Localization and Mapping (SLAM) and my hobby is climbing snow mountains. Feel free to reach out if you'd like to **learn more about my work**, **chat**, or explore potential **collaborations (Research or Climbing)**.
 
 
 
@@ -29,7 +29,7 @@ My research focuses on Robotics and Simultaneous Localization and Mapping (SLAM)
 
 
 # 🔥 News
-- *2025.09*: 🎉 Two papers was accepted by **NIPS 2026**.
+- *2025.09*: 🎉 Two papers were accepted by **NIPS 2026**.
 - *2025.07*: 🎉 [PAPL-SLAM](https://ieeexplore.ieee.org/abstract/document/11091490) is accepted by **IEEE Robotics and Automation Letters**.
 - *2025.06*: 🎉 [Dark-ISP](https://iccv.thecvf.com/virtual/2025/poster/2393) is accepted by **ICCV 2025**.
 - *2025.06*: 🎉 [FusionMap](https://ieeexplore.ieee.org/abstract/document/11060934) is accepted by **IEEE Transactions on Artificial Intelligence**.
