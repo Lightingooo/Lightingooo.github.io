@@ -29,7 +29,7 @@ I am a person at Shanghai, China. My research focuses on Robotics and Simultaneo
 
 
 # 🔥 News
-- *2025.09*: 🎉 OrderMind and GOOD were accepted by **NIPS 2026**.
+- *2025.09*: 🎉 OrderMind and GOOD were accepted by **NIPS 2025**.
 - *2025.07*: 🎉 [PAPL-SLAM](https://ieeexplore.ieee.org/abstract/document/11091490) is accepted by **IEEE Robotics and Automation Letters**.
 - *2025.06*: 🎉 [Dark-ISP](https://iccv.thecvf.com/virtual/2025/poster/2393) is accepted by **ICCV 2025**.
 - *2025.06*: 🎉 [FusionMap](https://ieeexplore.ieee.org/abstract/document/11060934) is accepted by **IEEE Transactions on Artificial Intelligence**.
