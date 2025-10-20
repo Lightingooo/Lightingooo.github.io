@@ -29,6 +29,7 @@ I am a person at Shanghai, China. My research focuses on Robotics and Simultaneo
 
 
 # 🔥 News
+- *2025.10*: 🎉 We release our latest work [ARTDECO][https://city-super.github.io/artdeco/].
 - *2025.09*: 🎉 **OrderMind** and **GOOD** were accepted by **NIPS 2025**.
 - *2025.07*: 🎉 [PAPL-SLAM](https://ieeexplore.ieee.org/abstract/document/11091490) is accepted by **IEEE Robotics and Automation Letters**.
 - *2025.06*: 🎉 [Dark-ISP](https://iccv.thecvf.com/virtual/2025/poster/2393) is accepted by **ICCV 2025**.
@@ -46,11 +47,11 @@ I am a person at Shanghai, China. My research focuses on Robotics and Simultaneo
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/2025_09_ARTDECO/teaser-v4.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[ARTDECO: Towards Efficient and High-Fidelity On-the-Fly 3D Reconstruction with Structured Scene Representation](https://arxiv.org/pdf/2510.08551?)
+[ARTDECO: Towards Efficient and High-Fidelity On-the-Fly 3D Reconstruction with Structured Scene Representation](https://city-super.github.io/artdeco/)
 
  **Guanghao Li\***, Kerui Ren\*, Linniong Xu, Zhewen Zheng, Changjian Jiang, Xin Gao, Jian Pu, Mulin Yu, Jiangmiao Pang
 
-[**Project**](https://github.com/InternRobotics/ARTDECO) <strong><span class='show_paper_citations' data='6nkKQDIAAAAJ:Y0pCki6q_DkC'></span></strong>
+[**Project**](https://city-super.github.io/artdeco/) <strong><span class='show_paper_citations' data='6nkKQDIAAAAJ:Y0pCki6q_DkC'></span></strong>
 [![GitHub Stars](https://img.shields.io/github/stars/InternRobotics/ARTDECO?style=social)](https://github.com/InternRobotics/ARTDECO)
 [![GitHub Forks](https://img.shields.io/github/forks/InternRobotics/ARTDECO?style=social)](https://github.com/InternRobotics/ARTDECO)
 
