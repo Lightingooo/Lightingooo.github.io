@@ -1,0 +1,20 @@
+current directory: /Users/lightning/Proj/Lightingooo.github.io/vendor/bundle/ruby/3.2.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+/Users/lightning/.rbenv/versions/3.2.9/bin/ruby extconf.rb
+checking for -lstdc++... yes
+creating Makefile
+
+current directory: /Users/lightning/Proj/Lightingooo.github.io/vendor/bundle/ruby/3.2.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20251020-5498-apif7s sitelibdir\=./.gem.20251020-5498-apif7s clean
+
+current directory: /Users/lightning/Proj/Lightingooo.github.io/vendor/bundle/ruby/3.2.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20251020-5498-apif7s sitelibdir\=./.gem.20251020-5498-apif7s
+compiling unf.cc
+linking shared-object unf_ext.bundle
+ld: warning: ignoring duplicate libraries: '-lc++', '-lruby.3.2'
+
+current directory: /Users/lightning/Proj/Lightingooo.github.io/vendor/bundle/ruby/3.2.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20251020-5498-apif7s sitelibdir\=./.gem.20251020-5498-apif7s install
+/usr/bin/install -c -m 0755 unf_ext.bundle ./.gem.20251020-5498-apif7s
+
+current directory: /Users/lightning/Proj/Lightingooo.github.io/vendor/bundle/ruby/3.2.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20251020-5498-apif7s sitelibdir\=./.gem.20251020-5498-apif7s clean

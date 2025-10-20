@@ -1,0 +1,20 @@
+current directory: /Users/lightning/Proj/Lightingooo.github.io/vendor/bundle/ruby/3.2.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+/Users/lightning/.rbenv/versions/3.2.9/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/lightning/Proj/Lightingooo.github.io/vendor/bundle/ruby/3.2.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20251020-5498-fx54wb sitelibdir\=./.gem.20251020-5498-fx54wb clean
+
+current directory: /Users/lightning/Proj/Lightingooo.github.io/vendor/bundle/ruby/3.2.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20251020-5498-fx54wb sitelibdir\=./.gem.20251020-5498-fx54wb
+compiling ruby_http_parser.c
+compiling ryah_http_parser.c
+linking shared-object ruby_http_parser.bundle
+ld: warning: ignoring duplicate libraries: '-lruby.3.2'
+
+current directory: /Users/lightning/Proj/Lightingooo.github.io/vendor/bundle/ruby/3.2.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20251020-5498-fx54wb sitelibdir\=./.gem.20251020-5498-fx54wb install
+/usr/bin/install -c -m 0755 ruby_http_parser.bundle ./.gem.20251020-5498-fx54wb
+
+current directory: /Users/lightning/Proj/Lightingooo.github.io/vendor/bundle/ruby/3.2.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20251020-5498-fx54wb sitelibdir\=./.gem.20251020-5498-fx54wb clean

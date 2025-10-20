@@ -1,0 +1,21 @@
+current directory: /Users/lightning/Proj/Lightingooo.github.io/vendor/bundle/ruby/3.2.0/gems/racc-1.6.0/ext/racc/cparse
+/Users/lightning/.rbenv/versions/3.2.9/bin/ruby extconf.rb
+checking for rb_block_call()... yes
+checking for rb_ary_subseq()... yes
+creating Makefile
+
+current directory: /Users/lightning/Proj/Lightingooo.github.io/vendor/bundle/ruby/3.2.0/gems/racc-1.6.0/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251020-5498-khpr0q sitelibdir\=./.gem.20251020-5498-khpr0q clean
+
+current directory: /Users/lightning/Proj/Lightingooo.github.io/vendor/bundle/ruby/3.2.0/gems/racc-1.6.0/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251020-5498-khpr0q sitelibdir\=./.gem.20251020-5498-khpr0q
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+ld: warning: ignoring duplicate libraries: '-lruby.3.2'
+
+current directory: /Users/lightning/Proj/Lightingooo.github.io/vendor/bundle/ruby/3.2.0/gems/racc-1.6.0/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251020-5498-khpr0q sitelibdir\=./.gem.20251020-5498-khpr0q install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20251020-5498-khpr0q/racc
+
+current directory: /Users/lightning/Proj/Lightingooo.github.io/vendor/bundle/ruby/3.2.0/gems/racc-1.6.0/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251020-5498-khpr0q sitelibdir\=./.gem.20251020-5498-khpr0q clean

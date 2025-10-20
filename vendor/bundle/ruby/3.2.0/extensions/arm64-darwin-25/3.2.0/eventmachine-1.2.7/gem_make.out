@@ -1,0 +1,20 @@
+current directory: /Users/lightning/Proj/Lightingooo.github.io/vendor/bundle/ruby/3.2.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/Users/lightning/.rbenv/versions/3.2.9/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/lightning/Proj/Lightingooo.github.io/vendor/bundle/ruby/3.2.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20251020-5498-nvvtgx sitelibdir\=./.gem.20251020-5498-nvvtgx clean
+
+current directory: /Users/lightning/Proj/Lightingooo.github.io/vendor/bundle/ruby/3.2.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20251020-5498-nvvtgx sitelibdir\=./.gem.20251020-5498-nvvtgx
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.bundle
+ld: warning: ignoring duplicate libraries: '-lruby.3.2'
+
+current directory: /Users/lightning/Proj/Lightingooo.github.io/vendor/bundle/ruby/3.2.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20251020-5498-nvvtgx sitelibdir\=./.gem.20251020-5498-nvvtgx install
+/usr/bin/install -c -m 0755 fastfilereaderext.bundle ./.gem.20251020-5498-nvvtgx
+
+current directory: /Users/lightning/Proj/Lightingooo.github.io/vendor/bundle/ruby/3.2.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20251020-5498-nvvtgx sitelibdir\=./.gem.20251020-5498-nvvtgx clean
