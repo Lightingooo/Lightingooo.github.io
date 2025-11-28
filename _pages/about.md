@@ -17,7 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi. **Welcome to all the friends from OpenReview**.
+Hi. 
+<!-- **Welcome to all the friends from OpenReview**. -->
 
 I am a person at Shanghai, China. My research focuses on Robotics and Simultaneous Localization and Mapping (SLAM) and my hobby is climbing snow mountains. Feel free to reach out if you'd like to explore potential **collaborations (Research or Climbing)**.
 
