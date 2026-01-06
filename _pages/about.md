@@ -18,7 +18,8 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Hi. 
-<!-- **Welcome to all the friends from OpenReview**. -->
+
+**Friends from OpenReview or other Websites: There are many people named Guanghao Li, please carefully check whether I am the one you are looking for. But while you're here, welcome to my homepage.**
 
 I am a person at Shanghai, China. My research focuses on Robotics and Simultaneous Localization and Mapping (SLAM) and my hobby is climbing snow mountains. Feel free to reach out if you'd like to explore potential **collaborations (Research or Climbing)**.
 
@@ -39,7 +40,7 @@ I am a person at Shanghai, China. My research focuses on Robotics and Simultaneo
             <strong>2025.10</strong>: 🎉 We release our latest work <a href="https://city-super.github.io/artdeco/">ARTDECO</a>.
         </li>
         <li>
-            <strong>2025.09</strong>: 🎉 <strong>OrderMind</strong> and <strong>GOOD</strong> are accepted by <strong>NIPS 2025</strong>.
+            <strong>2025.09</strong>: 🎉 <a href="https://arxiv.org/pdf/2510.25138">OrderMind</a> and <a href="https://arxiv.org/pdf/2510.17131">GOOD</a>are accepted by <strong>NIPS 2025</strong>.
         </li>
         <li>
             <strong>2025.07</strong>: 🎉 <a href="https://ieeexplore.ieee.org/abstract/document/11091490">PAPL-SLAM</a> is accepted by <strong>IEEE Robotics and Automation Letters</strong>.
@@ -54,7 +55,7 @@ I am a person at Shanghai, China. My research focuses on Robotics and Simultaneo
             <strong>2025.06</strong>: 🎉 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320325006946">EC-SLAM</a> is accepted by <strong>Pattern Recognition</strong>.
         </li>
         <li>
-            <strong>2025.03</strong>: 🎉 <strong>JointDeblur-GS</strong> is accepted by <strong>ICME 2025</strong>.
+            <strong>2025.03</strong>: 🎉 <a href="https://ieeexplore.ieee.org/document/11209991">JointDeblur-GS</a> is accepted by <strong>ICME 2025</strong>.
         </li>
         <li>
             <strong>2024.12</strong>: 🎉 🏔️ After relentless efforts, our four-person team successfully trekked over 30 km in two days and one night through an environment with temperatures below –30°C and snow reaching our thighs, ultimately summiting the <a href="/climbing/#gangshka-main-peak">Gangshka Main Peak</a> in Qinghai Province at an elevation of 5254.5 m. We are incredibly proud of all our team members!
@@ -122,11 +123,11 @@ I am a person at Shanghai, China. My research focuses on Robotics and Simultaneo
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2025</div><img src='images/2025_03_JointDeblur/jointDeblur.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[JointDeblur-GS: Joint Blur-Aware Gaussian Splatting](https://lightingooo.github.io/)
+[JointDeblur-GS: Joint Blur-Aware Gaussian Splatting](https://ieeexplore.ieee.org/document/11209991)
 
 Sijia Hu, Peng Chen, Xinxiao Wang, Luyue Sun, **Guanghao Li**, Hongyu Wang, Jian Pu
 
-[**Project**](https://lightingooo.github.io/)
+[**Project**](https://ieeexplore.ieee.org/document/11209991)
 - JointDeblur-GS is a joint optimization framework that integrates a blur-aware network to enhance image quality and optimize 3D Gaussian parameters for effective motion blur removal and multiview consistency, achieving superior reconstruction quality with real-time performance.
 </div>
 </div>
