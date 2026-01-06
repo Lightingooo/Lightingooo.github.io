@@ -27,6 +27,11 @@ main:
   - title: "Publications"
     url: "/publications/"
 
+  - title: "Climbing"
+    url: "/climbing/"
+
   - title: "Notes"
     url: "/notes/"
+  
+
 

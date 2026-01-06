@@ -29,17 +29,47 @@ I am a person at Shanghai, China. My research focuses on Robotics and Simultaneo
 - 🏔️🌨️❄️ Hoping for opportunities to collaborate on mountaineering expeditions, specifically to Muztagh Tower.
 
 
-# 🔥 News
-- *2025.10*: 🎉 We release our latest work [ARTDECO](https://city-super.github.io/artdeco/).
-- *2025.09*: 🎉 **OrderMind** and **GOOD** were accepted by **NIPS 2025**.
-- *2025.07*: 🎉 [PAPL-SLAM](https://ieeexplore.ieee.org/abstract/document/11091490) is accepted by **IEEE Robotics and Automation Letters**.
-- *2025.06*: 🎉 [Dark-ISP](https://iccv.thecvf.com/virtual/2025/poster/2393) is accepted by **ICCV 2025**.
-- *2025.06*: 🎉 [FusionMap](https://ieeexplore.ieee.org/abstract/document/11060934) is accepted by **IEEE Transactions on Artificial Intelligence**.
-- *2025.06*: 🎉 [EC-SLAM](https://www.sciencedirect.com/science/article/abs/pii/S0031320325006946) is accepted by **Pattern Recognition**.
-- *2025.03*: 🎉 **JointDeblur-GS** is accepted by **ICME 2025**.
-- *2024.12*: 🎉 🏔️After relentless efforts, our four-person team successfully trekked over 30 km in two days and one night through an environment with temperatures below –30°C and snow reaching our thighs, ultimately summiting the Gangshka Main Peak in Qinghai Province at an elevation of 5254.5 m. We are incredibly proud of all our team members!
-- *2024.03*: 🎉 [VPL-SLAM](https://ieeexplore.ieee.org/document/10461980) is accepted by **IEEE Transactions on Intelligent Transportation Systems**.
-- *2024.01*: 🎉 [Multi-Lio](https://ieeexplore.ieee.org/document/10611257) is accepted by **ICRA 2024**.
+<h2>🔥 News</h2>
+<div style="height: 200px; overflow-y: auto; border: 1px solid #e1e4e8; padding: 10px; border-radius: 6px; background-color: #f6f8fa;">
+    <ul style="padding-left: 20px; margin-top: 0;">
+        <li>
+            <strong>2025.12</strong>: 🎉 Summited the <a href="/climbing/#gangshka-third-peak">Third Peak of Gangshka</a> (5005 m) in temperatures below –40°C.
+        </li>
+        <li>
+            <strong>2025.10</strong>: 🎉 We release our latest work <a href="https://city-super.github.io/artdeco/">ARTDECO</a>.
+        </li>
+        <li>
+            <strong>2025.09</strong>: 🎉 <strong>OrderMind</strong> and <strong>GOOD</strong> are accepted by <strong>NIPS 2025</strong>.
+        </li>
+        <li>
+            <strong>2025.07</strong>: 🎉 <a href="https://ieeexplore.ieee.org/abstract/document/11091490">PAPL-SLAM</a> is accepted by <strong>IEEE Robotics and Automation Letters</strong>.
+        </li>
+        <li>
+            <strong>2025.06</strong>: 🎉 <a href="https://iccv.thecvf.com/virtual/2025/poster/2393">Dark-ISP</a> is accepted by <strong>ICCV 2025</strong>.
+        </li>
+        <li>
+            <strong>2025.06</strong>: 🎉 <a href="https://ieeexplore.ieee.org/abstract/document/11060934">FusionMap</a> is accepted by <strong>IEEE Transactions on Artificial Intelligence</strong>.
+        </li>
+        <li>
+            <strong>2025.06</strong>: 🎉 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320325006946">EC-SLAM</a> is accepted by <strong>Pattern Recognition</strong>.
+        </li>
+        <li>
+            <strong>2025.03</strong>: 🎉 <strong>JointDeblur-GS</strong> is accepted by <strong>ICME 2025</strong>.
+        </li>
+        <li>
+            <strong>2024.12</strong>: 🎉 🏔️ After relentless efforts, our four-person team successfully trekked over 30 km in two days and one night through an environment with temperatures below –30°C and snow reaching our thighs, ultimately summiting the <a href="/climbing/#gangshka-main-peak">Gangshka Main Peak</a> in Qinghai Province at an elevation of 5254.5 m. We are incredibly proud of all our team members!
+        </li>
+        <li>
+            <strong>2024.03</strong>: 🎉 <a href="https://ieeexplore.ieee.org/document/10461980">VPL-SLAM</a> is accepted by <strong>IEEE Transactions on Intelligent Transportation Systems</strong>.
+        </li>
+        <li>
+            <strong>2024.01</strong>: 🎉 <a href="https://ieeexplore.ieee.org/document/10611257">Multi-Lio</a> is accepted by <strong>ICRA 2024</strong>.
+        </li>
+    </ul>
+  </div>
+  <div style="text-align: right; color: #888; font-size: 0.8em; margin-top: 4px;">
+   ↕️ Scroll to view more history
+  </div>
 <!-- Honored to collaborate with them on these promising projects. -->
 
 
@@ -154,6 +184,28 @@ Guo jiasheng, Xin Gao, Yuxiang Yan, **Guanghao Li**, Jian Pu
 
 [**Project**](https://lightingooo.github.io/)
 - Dark-ISP is a lightweight and self-adaptive Image Signal Processing (ISP) plugin designed to improve low-light object detection. Unlike previous methods that either use RAW-RGB images with information loss or complex frameworks, Dark-ISP processes Bayer RAW images directly in dark environments. Its key innovations include deconstructing conventional ISP pipelines into linear and nonlinear sub-modules optimized for task-driven losses, and a self-boosting strategy that enhances cooperation between sub-modules.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurips 2025</div><img src='images/2025_09_GOOD/GOOD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[GOOD: Training-Free Guided Diffusion Sampling for Out-of-Distribution Detection](https://arxiv.org/pdf/2510.17131)
+
+Xin Gao, Jiyao Liu, **Guanghao Li**, Yueming Lyu, Jianxiong Gao, Weichen Yu, Ningsheng Xu, Liang Wang, Caifeng Shan, Ziwei Liu, Chenyang Si
+
+- **GOOD** is a training-free diffusion guidance framework that shapes a robust OOD/ID decision boundary. It steers sampling with two gradients—image-level toward low-density regions and feature-level toward sparse zones—to generate diverse, controllable OOD examples.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurips 2025</div><img src='images/2025_09_OrderMind/order.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Learning Spatial-Aware Manipulation Ordering](https://arxiv.org/pdf/2510.25138)
+
+Yuxiang Yan, Zhiyuan Zhou, Xin Gao, **Guanghao Li**, Shenglin Li, Jiaqi Chen, Qunyan Pu, Jian Pu 
+
+- This paper introduces **OrderMind**, a spatial-aware manipulation ordering framework that learns object priorities from local geometry via a kNN spatial graph and a lightweight temporal module, supervised by VLM-distilled spatial priors. It also presents the **Manipulation Ordering Benchmark** (163k+ samples) for cluttered scenes.
 </div>
 </div>
 
