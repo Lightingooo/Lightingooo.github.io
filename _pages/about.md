@@ -19,7 +19,7 @@ redirect_from:
 
 Hi. 
 
-**Friends from OpenReview or other Websites: There are many people named Guanghao Li, please carefully check whether I am the one you are looking for. But while you're here, welcome to my homepage.**
+<!-- **Friends from OpenReview or other Websites: There are many people named Guanghao Li, please carefully check whether I am the one you are looking for. But while you're here, welcome to my homepage.** -->
 
 I am a person at Shanghai, China. My research focuses on Robotics and Simultaneous Localization and Mapping (SLAM) and my hobby is climbing snow mountains. Feel free to reach out if you'd like to explore potential **collaborations (Research or Climbing)**.
 
@@ -34,13 +34,13 @@ I am a person at Shanghai, China. My research focuses on Robotics and Simultaneo
 <div style="height: 200px; overflow-y: auto; border: 1px solid #e1e4e8; padding: 10px; border-radius: 6px; background-color: #f6f8fa;">
     <ul style="padding-left: 20px; margin-top: 0;">
         <li>
+            <strong>2026.01</strong>: 🎉 <a href="https://city-super.github.io/artdeco/">ARTDECO</a> is accetped by ICLR 2026.
+        </li>
+        <li>
             <strong>2025.12</strong>: 🎉 Summited the <a href="/climbing/#gangshka-third-peak">Third Peak of Gangshka</a> (5005 m) in temperatures below –40°C.
         </li>
         <li>
-            <strong>2025.10</strong>: 🎉 We release our latest work <a href="https://city-super.github.io/artdeco/">ARTDECO</a>.
-        </li>
-        <li>
-            <strong>2025.09</strong>: 🎉 <a href="https://arxiv.org/pdf/2510.25138">OrderMind</a> and <a href="https://arxiv.org/pdf/2510.17131">GOOD</a>are accepted by <strong>NIPS 2025</strong>.
+            <strong>2025.09</strong>: 🎉 <a href="https://arxiv.org/pdf/2510.25138">OrderMind</a> and <a href="https://arxiv.org/pdf/2510.17131">GOOD</a> are accepted by <strong>NeurIPS 2025</strong>.
         </li>
         <li>
             <strong>2025.07</strong>: 🎉 <a href="https://ieeexplore.ieee.org/abstract/document/11091490">PAPL-SLAM</a> is accepted by <strong>IEEE Robotics and Automation Letters</strong>.
