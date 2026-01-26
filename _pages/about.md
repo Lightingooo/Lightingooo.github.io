@@ -34,7 +34,7 @@ I am a person at Shanghai, China. My research focuses on Robotics and Simultaneo
 <div style="height: 200px; overflow-y: auto; border: 1px solid #e1e4e8; padding: 10px; border-radius: 6px; background-color: #f6f8fa;">
     <ul style="padding-left: 20px; margin-top: 0;">
         <li>
-            <strong>2026.01</strong>: 🎉 <a href="https://city-super.github.io/artdeco/">ARTDECO</a> is accetped by <strong>ICLR 2025</strong>.
+            <strong>2026.01</strong>: 🎉 <a href="https://city-super.github.io/artdeco/">ARTDECO</a> is accetped by <strong>ICLR 2026</strong>.
         </li>
         <li>
             <strong>2025.12</strong>: 🎉 Summited the <a href="/climbing/#gangshka-third-peak">Third Peak of Gangshka</a> (5005 m) in temperatures below –40°C.
