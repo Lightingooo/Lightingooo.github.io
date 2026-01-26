@@ -188,7 +188,7 @@ Guo jiasheng, Xin Gao, Yuxiang Yan, **Guanghao Li**, Jian Pu
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurips 2025</div><img src='images/2025_09_GOOD/GOOD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/2025_09_GOOD/GOOD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [GOOD: Training-Free Guided Diffusion Sampling for Out-of-Distribution Detection](https://arxiv.org/pdf/2510.17131)
@@ -199,7 +199,7 @@ Xin Gao, Jiyao Liu, **Guanghao Li**, Yueming Lyu, Jianxiong Gao, Weichen Yu, Nin
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurips 2025</div><img src='images/2025_09_OrderMind/order.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/2025_09_OrderMind/order.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Learning Spatial-Aware Manipulation Ordering](https://arxiv.org/pdf/2510.25138)
