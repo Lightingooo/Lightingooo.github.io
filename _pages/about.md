@@ -76,7 +76,7 @@ I am a person at Shanghai, China. My research focuses on Robotics and Simultaneo
 
 # 📝 Selected Studies on 3D Reconstruction 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/2025_09_ARTDECO/teaser-v4.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/2025_09_ARTDECO/teaser-v4.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ARTDECO: Towards Efficient and High-Fidelity On-the-Fly 3D Reconstruction with Structured Scene Representation](https://city-super.github.io/artdeco/)
