@@ -17,16 +17,27 @@ author_profile: true
 
 Li, G., Cao, Y., Chen, Q., Gao, X., Yang, Y., & Pu, J. (2025). Papl-slam: Principal axis-anchored monocular point-line slam. IEEE Robotics and Automation Letters.
 
-Chen, Q., Li, G., Xue, X., & Pu, J. (2024, May). Multi-lio: A lightweight multiple lidar-inertial odometry system. In 2024 IEEE International Conference on Robotics and Automation (ICRA) (pp. 13748-13754). IEEE.
+Chen, Q., Li, G., Xue, X., & Pu, J. (2024, May). Multi-lio: A lightweight multiple lidar-inertial odometry system. ICRA 2024.
 
-Chen, Q., Cao, Y., Hou, J., Li, G., Qiu, S., Chen, B., ... & Pu, J. (2024). VPL-SLAM: a vertical line supported point line monocular SLAM system. IEEE Transactions on Intelligent Transportation Systems, 25(8), 9749-9761.
+Chen, Q., Cao, Y., Hou, J., Li, G., Qiu, S., Chen, B., ... & Pu, J. (2024). VPL-SLAM: a vertical line supported point line monocular SLAM system. IEEE Transactions on Intelligent Transportation Systems.
 
 # 📝 3D Reconstruction 
 
 Li, G., Chen, Q., Hu, S., Yan, Y., & Pu, J. (2025). Constrained Gaussian Splatting via Implicit TSDF Hash Grid for Dense RGB-D SLAM. IEEE Transactions on Artificial Intelligence.
 
-Li, G., Chen, Q., Yan, Y., & Pu, J. (2025). EC-SLAM: Effectively constrained neural RGB-D SLAM with TSDF hash encoding and joint optimization. Pattern Recognition, 112034.
+Li, G., Chen, Q., Yan, Y., & Pu, J. (2025). EC-SLAM: Effectively constrained neural RGB-D SLAM with TSDF hash encoding and joint optimization. Pattern Recognition,
 
+Li, G., Ren, K., Xu, L., Zheng, Z., Jiang, C., Gao, X., ... & Pang, J. (2025). Artdeco: Towards efficient and high-fidelity on-the-fly 3d reconstruction with structured scene representation. ICLR 2026.
+
+Hu, S., Chen, P., Wang, X., Sun, L., Li, G., Wang, H., & Pu, J. (2025, June). JointDeblur-Gs: Joint Blur-Aware Gaussian Splatting. ICME 2025.
+
+# 📝 Others 
+
+Guo, J., Gao, X., Yan, Y., Li, G., & Pu, J. (2025). Dark-isp: Enhancing raw image processing for low-light object detection. ICCV 2025.
+
+Gao, X., Liu, J., Li, G., Lyu, Y., Gao, J., Yu, W., ... & Si, C. (2025). GOOD: Training-Free Guided Diffusion Sampling for Out-of-Distribution Detection. NeurIPS 2025.
+
+Yan, Y., Zhou, Z., Gao, X., Li, G., Li, S., Chen, J., ... & Pu, J. (2025). Learning Spatial-Aware Manipulation Ordering.  NeurIPS 2025.
 
 <!-- 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2025</div><img src='/images/2025_03_JointDeblur/jointDeblur.png' alt="sym" width="100%"></div></div>

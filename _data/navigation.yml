@@ -30,8 +30,8 @@ main:
   - title: "Climbing"
     url: "/climbing/"
 
-  - title: "Notes"
-    url: "/notes/"
+  # - title: "Notes"
+  #   url: "/notes/"
   
 
 
