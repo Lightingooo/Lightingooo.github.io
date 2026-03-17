@@ -107,3 +107,89 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+/* ==========================================================================
+   Custom: smooth scroll + news box + paper hover + section reveal
+   ========================================================================== */
+
+@media (prefers-reduced-motion: no-preference) {
+  html { scroll-behavior: smooth; }
+}
+
+.page__content h2 {
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  margin-top: 1.8em;
+  margin-bottom: 0.6em;
+  padding-bottom: 0.25em;
+  border-bottom: 2px solid transparent;
+  border-image: linear-gradient(90deg, #0d6efd 0%, transparent 70%) 1;
+}
+
+/* News box - glass-style */
+.news-box {
+  height: 200px;
+  overflow-y: auto;
+  padding: 1rem 1.25rem;
+  border-radius: 12px;
+  background: linear-gradient(145deg, #f8fafc 0%, #f1f5f9 100%);
+  border: 1px solid rgba(13, 110, 253, 0.12);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.04), inset 0 1px 0 rgba(255, 255, 255, 0.8);
+  transition: box-shadow 0.25s ease, border-color 0.25s ease;
+
+  &:focus-within,
+  &:hover {
+    border-color: rgba(13, 110, 253, 0.25);
+    box-shadow: 0 8px 28px rgba(0, 0, 0, 0.06), inset 0 1px 0 rgba(255, 255, 255, 0.9);
+  }
+
+  &::-webkit-scrollbar { width: 8px; }
+  &::-webkit-scrollbar-track { background: rgba(0, 0, 0, 0.04); border-radius: 4px; }
+  &::-webkit-scrollbar-thumb { background: rgba(13, 110, 253, 0.3); border-radius: 4px; }
+  &::-webkit-scrollbar-thumb:hover { background: rgba(13, 110, 253, 0.5); }
+}
+
+.news-list {
+  padding-left: 1.25rem;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.news-box-hint {
+  text-align: right;
+  color: #64748b;
+  font-size: 0.8em;
+  margin-top: 6px;
+}
+
+/* Paper box hover - lift + glow */
+.paper-box {
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+
+  @include breakpoint($medium) {
+    .paper-box-image img {
+      transition: box-shadow 0.25s ease, transform 0.25s ease;
+    }
+  }
+}
+
+.paper-box:hover {
+  .paper-box-image img {
+    box-shadow: 0 12px 28px rgba(13, 110, 253, 0.15), 0 4px 12px rgba(0, 0, 0, 0.08);
+    @include breakpoint($medium) {
+      transform: scale(1.02);
+    }
+  }
+}
+
+/* Section reveal (used by JS) */
+.reveal-on-scroll {
+  opacity: 0;
+  transform: translateY(16px);
+  transition: opacity 0.5s ease-out, transform 0.5s ease-out;
+}
+
+.reveal-on-scroll.is-visible {
+  opacity: 1;
+  transform: translateY(0);
+}

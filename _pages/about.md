@@ -21,17 +21,13 @@ Hi.
 
 <!-- **Friends from OpenReview or other Websites: There are many people named Guanghao Li, please carefully check whether I am the one you are looking for. But while you're here, welcome to my homepage.** -->
 
-I build systems that understand the world, and I climb mountains to experience it.
-
-Based in Shanghai, I am a Ph.D. researcher specializing in Robotics, SLAM, and multi-sensor fusion. My work is driven by a first-principles approach to solving complex spatial problems, from algorithms to hardware deployment. 
-
-If you are interested in pushing the SOTA in robotics or looking for a reliable roped-party member for an upcoming alpine ascent, feel free to reach out.
+I am a person at Shanghai, China. My research focuses on Robotics and Simultaneous Localization and Mapping (SLAM) and my hobby is climbing snow mountains. Feel free to reach out if you'd like to explore potential **collaborations (Research or Climbing)**.
 
 
 
 <h2>🔥 News</h2>
-<div style="height: 200px; overflow-y: auto; border: 1px solid #e1e4e8; padding: 10px; border-radius: 6px; background-color: #f6f8fa;">
-    <ul style="padding-left: 20px; margin-top: 0;">
+<div class="news-box">
+    <ul class="news-list">
         <li>
             <strong>2026.02</strong>: 🎉 <strong>DynamicVGGT</strong>, <strong>GIFT</strong>, <strong>MacTok</strong>, and <strong>DINO-VO</strong> are accepted by <strong>CVPR 2026</strong>.
         </li>
@@ -39,7 +35,7 @@ If you are interested in pushing the SOTA in robotics or looking for a reliable 
             <strong>2026.01</strong>: 🎉 <a href="https://ieeexplore.ieee.org/abstract/document/11091490">PAPL-SLAM</a> is accepted by <strong>ICRA 2026</strong>.
         </li>
         <li>
-            <strong>2026.01</strong>: 🎉 <a href="https://city-super.github.io/artdeco/">ARTDECO</a> is accetped by <strong>ICLR 2026</strong>.
+            <strong>2026.01</strong>: 🎉 <a href="https://city-super.github.io/artdeco/">ARTDECO</a> is accepted by <strong>ICLR 2026</strong>.
         </li>
         <li>
             <strong>2025.12</strong>: 🎉 Summited the <a href="/climbing/#gangshka-third-peak">Third Peak of Gangshka</a> (5005 m) in temperatures below –40°C.
@@ -73,9 +69,7 @@ If you are interested in pushing the SOTA in robotics or looking for a reliable 
         </li>
     </ul>
   </div>
-  <div style="text-align: right; color: #888; font-size: 0.8em; margin-top: 4px;">
-   ↕️ Scroll to view more history
-  </div>
+  <div class="news-box-hint">↕️ Scroll to view more history</div>
 <!-- Honored to collaborate with them on these promising projects. -->
 
 
