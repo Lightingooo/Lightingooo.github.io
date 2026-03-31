@@ -71,6 +71,11 @@
 .profile_box{
   @include breakpoint($large) {
     display: block;
+    background: #ffffff;
+    border: 1px solid rgba(0, 0, 0, 0.05);
+    border-radius: 12px;
+    padding: 1.5em;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.04);
   }
   display: flex;
   justify-content: flex-start;
@@ -89,16 +94,22 @@
     display: block;
     width: auto;
     height: auto;
+    margin-bottom: 1em;
   }
 
   img {
     max-width: 175px;
     min-width: 75px;
     border-radius: 50%;
+    transition: transform 0.3s ease;
+
+    &:hover {
+      transform: scale(1.05);
+    }
 
     @include breakpoint($large) {
-      padding: 5px;
-      border: 1px solid $border-color;
+      padding: 4px;
+      border: 2px solid rgba(13, 110, 253, 0.15);
     }
   }
 }

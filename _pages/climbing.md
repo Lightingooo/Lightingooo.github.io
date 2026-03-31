@@ -5,16 +5,10 @@ excerpt: ""
 author_profile: true
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 
-# 🏔️Gangshka
-
+<details open>
+<summary style="cursor: pointer; font-size: 1.2em; font-weight: 700; letter-spacing: -0.02em; margin-top: 1.8em; margin-bottom: 0.6em; padding-bottom: 0.25em; border-bottom: 2px solid transparent; border-image: linear-gradient(90deg, #0d6efd 0%, transparent 70%) 1;">🏔️ Gangshka</summary>
 
 <div style="text-align: center; margin: 30px 0;">
     <img src="/images/Gangshka/Whole_scene.jpg" alt="Gangshka Panorama" style="width: 100%; max-width: 800px; border-radius: 6px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
@@ -127,3 +121,5 @@ author_profile: true
         </p>
     </div>
 </div>
+
+</details>

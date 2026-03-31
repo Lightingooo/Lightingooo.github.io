@@ -57,7 +57,8 @@
         order: 2;
         img {
             max-width: 400px;
-            box-shadow: 3px 3px 6px #888;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+            border-radius: 8px;
             object-fit: cover;
         }
     }
@@ -104,8 +105,12 @@ h1:before, .anchor:before {
     margin-top: .5em;
     margin-left: -.5em;
     color: white;
-    background-color: #00369f;
+    background-color: #0d6efd;
     font-size: .8em;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(13, 110, 253, 0.3);
+    font-weight: 600;
+    letter-spacing: 0.5px;
 }
 
 /* ==========================================================================
@@ -124,6 +129,34 @@ h1:before, .anchor:before {
   padding-bottom: 0.25em;
   border-bottom: 2px solid transparent;
   border-image: linear-gradient(90deg, #0d6efd 0%, transparent 70%) 1;
+}
+
+/* Custom details/summary styling for headers */
+.page__content details summary {
+  list-style: none; /* Hide default triangle in some browsers */
+  position: relative;
+  outline: none;
+}
+
+.page__content details summary::-webkit-details-marker {
+  display: none; /* Hide default triangle in WebKit browsers */
+}
+
+.page__content details summary::after {
+  content: 'Expand \25BC'; /* Show Expand + Triangle */
+  font-size: 0.65em;
+  font-weight: normal;
+  position: absolute;
+  right: 10px;
+  top: 50%;
+  margin-top: -0.5em; /* 调整垂直居中对齐 */
+  color: #64748b;
+  transition: all 0.3s ease;
+  letter-spacing: normal;
+}
+
+.page__content details[open] summary::after {
+  content: 'Collapse \25B2'; /* Show Collapse + Triangle pointing up */
 }
 
 /* News box - glass-style */
